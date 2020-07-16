@@ -104,4 +104,5 @@ Example:
 #!/bin/bash  
 curl --request PUT http://192.168.1.104/api/1.0/datapoint --digest --user Service:123 --data-raw "{\"OID\":\"$1\",\"value\":\"$2\"}"
 
-
+## Read more (german)
+https://www.mikrocontroller.net/topic/353671
